@@ -16,6 +16,7 @@ def q3():
     num3=21
     num4=4
     print(num3//num4)
+    
 
 def q4():
     num5=6.3
