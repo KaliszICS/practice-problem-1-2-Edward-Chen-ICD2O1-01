@@ -1,8 +1,8 @@
 
 
 def q1():
-    _name_="Alex"
-    print(_name_)
+    name ="Alex"
+    print(name)
 
 def q2():
     num=3
@@ -27,8 +27,8 @@ def q5():
     print(words)
     words = "Goodbye world"
 def q6():
-    _True_= True
-    print(True)
+    bool1 = True
+    print(bool1)
 
 def q7():
     num7=7
