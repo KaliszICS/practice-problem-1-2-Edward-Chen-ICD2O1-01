@@ -1,7 +1,5 @@
 
 
-#Write Assignment code here
-
 def q1():
     _name_="Alex"
     print(_name_)
@@ -37,10 +35,10 @@ def q7():
     num8=2
     print(num7/num8)
 
-q1()
-q2()
-q3()
-q4()
-q5()
-q6()
-q7()
+#q1()
+#q2()
+#q3()
+#q4()
+#q5()
+#q6()
+#q7()
