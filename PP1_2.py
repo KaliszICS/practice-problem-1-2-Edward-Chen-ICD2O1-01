@@ -25,8 +25,9 @@ def q4():
 
 
 def q5():
-    words="Hello World" = words= "Goodbye World"
+    words = "Hello World"
     print(words)
+    words = "Goodbye world"
 def q6():
     _True_= True
     print(True)
