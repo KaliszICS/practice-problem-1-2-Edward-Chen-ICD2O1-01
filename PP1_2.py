@@ -26,6 +26,7 @@ def q5():
     words = "Hello World"
     print(words)
     words = "Goodbye world"
+    print(words)
 def q6():
     bool1 = True
     print(bool1)
