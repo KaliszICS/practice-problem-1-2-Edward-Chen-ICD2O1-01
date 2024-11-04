@@ -33,7 +33,7 @@ def q6():
 
 def q7():
     num7=7
-    num8=(2)
+    num8=2
     print(num7/num8)
 
 q1()
