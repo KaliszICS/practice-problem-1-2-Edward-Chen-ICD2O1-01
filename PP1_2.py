@@ -21,12 +21,12 @@ def q4():
     num6=3.0
     print(num5/num6)
 
-
 def q5():
-words = "Hello World"
-print(words)
-words = "Goodbye World"
-print(words)
+    words = "Hello World"
+    print(words)
+    words = "Goodbye World"
+    print(words)
+    
 def q6():
     bool1 = True
     print(bool1)
