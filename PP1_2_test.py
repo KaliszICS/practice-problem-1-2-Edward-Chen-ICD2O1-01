@@ -50,6 +50,8 @@ def test_q4(capsys):
   captured = capsys.readouterr()
   assert captured.out == "2.1\n"
 
+  exists = os.path.exists("PP1_2.py")
+
 def test_q5(capsys):
 
   try:
@@ -72,7 +74,7 @@ def test_q6(capsys):
 
   q6()
   captured = capsys.readouterr()
-  assert captured.out == "true\n"
+  assert captured.out == "True\n"
 
 def test_q7(capsys):
 
